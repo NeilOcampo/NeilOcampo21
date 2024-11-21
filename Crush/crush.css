@@ -1,0 +1,119 @@
+/* CSS */
+.styledbutton {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 12px 24px; /* Padding around the text */
+    font-size: 16px; /* Larger font size */
+    border: none; /* Remove default border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+    margin-right: 10px; /* Spacing between buttons */
+    position: absolute;
+    left: 40%;
+    top: 55%;
+  }
+  
+  .styledbutton:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transform: scale(1.05); /* Slightly larger on hover */
+  }
+  
+  .styled-button:active {
+    background-color: #3e8e41; /* Even darker green when clicked */
+    transform: scale(0.98); /* Slightly smaller on click */
+  }
+  /* CSS */
+.styledbutton1 {
+    background-color: red; /* Green background */
+    color: white; /* White text */
+    padding: 12px 24px; /* Padding around the text */
+    font-size: 16px; /* Larger font size */
+    border: none; /* Remove default border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+    margin-right: 10px; /* Spacing between buttons */
+    position: absolute;
+    left: 50%;
+    top: 55%;
+  }
+  
+  .styledbutton1:hover {
+    background-color: red; /* Darker green on hover */
+    transform: scale(1.05); /* Slightly larger on hover */
+  }
+  
+  .styledbutton1:active {
+    background-color: red; /* Even darker green when clicked */
+    transform: scale(0.98); /* Slightly smaller on click */
+  }
+  .crushText{
+    font-size: 15px;
+    position: absolute;
+    top: 40%;
+    left: 37%;
+
+  }
+  body{
+    background-color: pink;
+  }
+  .image img{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  #image:hover {
+    transform: scale(1.1);
+    transition: transform 1s ease;
+  }
+  .crushText1{
+    font-size: 15px;
+    position: absolute;
+    top: 40%;
+    left: 33%;
+
+  }
+  .styledbutton2 {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 12px 24px; /* Padding around the text */
+    font-size: 16px; /* Larger font size */
+    border: none; /* Remove default border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+    margin-right: 10px; /* Spacing between buttons */
+    position: absolute;
+    left: 45%;
+    top: 65%;
+  }
+  
+  .styledbutton2:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transform: scale(1.05); /* Slightly larger on hover */
+  }
+  
+  .styled-button2:active {
+    background-color: #3e8e41; /* Even darker green when clicked */
+    transform: scale(0.98); /* Slightly smaller on click */
+  }
+  
+  .crushText2{
+    font-size: 10px;
+    position: absolute;
+    top: 52%;
+    left: 40%;
+
+  }
+  audio{
+    position: absolute;
+    top:66%;
+    left: 32%;
+    width: 500px;
+  }
+  
